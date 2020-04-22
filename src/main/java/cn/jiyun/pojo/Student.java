@@ -6,6 +6,8 @@ public class Student {
 
     String uname;
 
+    String nname;
+
     public String getUname() {
         return uname;
     }
