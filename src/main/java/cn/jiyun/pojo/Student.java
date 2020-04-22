@@ -4,6 +4,16 @@ public class Student {
     String name;
     String sex;
 
+    String uname;
+
+    public String getUname() {
+        return uname;
+    }
+
+    public void setUname(String uname) {
+        this.uname = uname;
+    }
+
     public String getName() {
         return name;
     }
